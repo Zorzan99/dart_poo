@@ -1,0 +1,30 @@
+Assim como no nosso cotidiano nos abstraímos de
+certas dificuldades para atingirmos nossas metas, na
+programação orientada a objetos não poderia ser
+diferente. Afinal, programamos para automatizar
+processos do nosso dia a dia.
+
+* Abstração quer dizer: “Processo pelo qual se isolam
+características, considerando os que tenham em
+comum certos grupos de objetos”
+
+* Aideia que essa definição transmite é que não
+devemos nos preocupar com características menos
+importantes, ou seja, acidentais. Devemos, neste caso
+nos concentrar apenas nos aspectos essenciais.
+
+Exemplo:
+Temos uma fabrica de cadeiras
+O que temos em comum em uma cadeira?
+Podemos sentar, tem um encosto.
+Dessa abstracaoção podemos gerar uma caderna mais moderna, uma cadeira de praia,
+Porem todas elas teremos um acento, um encosto etc. 
+Ou seja, abstraimos o que temos em comum.
+
+Não existe pior prática em programação do que a
+repetição de código. Isto leva a um código frágil,
+propício a resultados inesperados. Quanto mais
+códigos são repetidos pela aplicação, mais difícil vai se
+tornando sua manutenção. Isso porque facilmente se
+pode esquecer de atualizar algum ponto que logo
+levará a uma inconsistência.
