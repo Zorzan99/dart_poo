@@ -1,0 +1,53 @@
+
+
+Uma analogia, com o mundo real. Quando alguém se
+consulta com um médico, por estar com um resfriado,
+seria desesperador se ao final da consulta o médico
+entregasse a seguinte receita:
+
+
+
+RECEITUÁRIO (COMPLEXO)
+* 400mg de ácido acetilsalicílico
+* Imgde maleato de dexclorfeniramina
+* 10mg de cloridrato de fenilefrina
+* 30mg de cafeína
+Misturar bem e ingerir com água. Repetir em momentos de crise.
+
+A primeira coisa que viria em mente seria: onde achar
+essas substâncias? Será que é vendido tão pouco?
+Como misturá-las? Existe alguma sequência?
+
+Mais simples do que isso é o que os médicos realmente
+fazem: passam uma cápsula onde todas estas substâncias
+já estão prontas. Ou seja, elas já vêm encapsuladas.
+
+Com isso, não será preciso se preocupar em saber quanto
+e como as substâncias devem ser manipuladas para no
+final termos o comprimido que resolverá o problema.
+
+O que interessa é o resultado final, no caso, a cura do
+resfriado. A complexidade de chegar a essas medidas e
+como misturá-las não interessa. É um processo que não
+precisa ser do conhecimento do paciente.
+
+RECEITUÁRIO (ENCAPSULADO)
+
+1 comprimido de Resfriol. Ingerir com água. Repetir em momentos de crise.
+
+Essa mesma ideia se aplica na Orientação a Objetos. No
+caso, a complexidade que desejamos esconder é a de
+implementação de alguma necessidade. Com o
+encapsulamento, podemos esconder a forma como
+algo foi feito, dando a quem precisa apenas o resultado
+gerado.
+
+Uma vantagem é que as mudanças se tornam
+transparentes, ou seja, quem usa algum processamento
+não será afetado quando seu comportamento interno
+mudar
+
+Uma outra característica do encapsulamento é também
+a ocultação da informação. 
+
+
