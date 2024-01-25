@@ -11,6 +11,7 @@ void main() {
     Tamanho: ${camisetaNike.tamanho}
     Cor: ${camisetaNike.cor}
     Marca : ${camisetaNike.marca}
+    tipoLavagem : ${camisetaNike.tipoLavagem()}
   ''');
 
   var camisetaAdidas = Camiseta();
@@ -23,5 +24,7 @@ void main() {
     Tamanho: ${camisetaAdidas.tamanho}
     Cor: ${camisetaAdidas.cor}
     Marca : ${camisetaAdidas.marca}
+    tipoLavagem : ${camisetaAdidas.tipoLavagem()}
+
   ''');
 }
