@@ -6,6 +6,9 @@ void main() {
   camisetaNike.cor = "Preta";
   camisetaNike.marca = "Nike";
 
+  print(Camiseta.nome);
+  print(Camiseta.recuperarNome());
+
   print('''
   Camiseta:
     Tamanho: ${camisetaNike.tamanho}
@@ -16,7 +19,7 @@ void main() {
 
   var camisetaAdidas = Camiseta();
   camisetaAdidas.tamanho = "G";
-  camisetaAdidas.cor = "Preta";
+  camisetaAdidas.cor = "Verde";
   camisetaAdidas.marca = "Adidas";
 
   print('''
