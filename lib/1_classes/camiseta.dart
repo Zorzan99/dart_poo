@@ -5,6 +5,7 @@ class Camiseta {
   String? tamanho;
   String? cor;
   String? marca;
+  //Funcoes dentro de classes sao chamados de metodos
 
   String tipoLavagem() {
     if (marca == "Nike") {
